@@ -6,3 +6,5 @@ How it feels to be forgotten
 How it feels to be alone.
 Add Linenew branch line
 Hello
+
+NEW LINE FOR GUI
